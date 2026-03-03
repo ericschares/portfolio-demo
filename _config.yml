@@ -10,10 +10,10 @@
 # SITE SETTINGS
 #
 title: Eric Schares
-description: "Professional portfolio template for Jekyll with [GitHub](https://ericschares.github.io/portfolio-demo/) Pages"  # " " for punctuation, shows at bottom of page
+description: "Professional portfolio template for Jekyll with GitHub Pages"  # " " for punctuation, shows at bottom of page
 year: 2026
 author: Eric Schares
-bio: "Eric is the Engineering & Collection Analysis Librarian at Iowa State University"  # underneath author name
+bio: "Engineering & Collection Analysis Librarian at Iowa State University"  # underneath author name
 
 # PERSONAL URLS
 image: /assets/img/Schares_Eric_circle.png
