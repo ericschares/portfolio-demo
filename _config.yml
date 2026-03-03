@@ -21,6 +21,7 @@ email: eschares@iastate.edu
 github_profile: https://github.com/ericschares
 department: https://www.lib.iastate.edu
 orcid: https://orcid.org/0000-0002-6292-8221
+bluesky: https://bsky.app/profile/eschares.bsky.social
 cv: /assets/test_cv.txt
 
 # PAGE METADATA SETTINGS [optional!]
@@ -88,14 +89,14 @@ defaults:
 - scope:
     path: "pages"
   values:
-    layout: profile-page-left
+    layout: profile-page-right
     permalink: /:basename:output_ext
 # index.md
 - scope:
     path: ""
     type: pages
   values:
-    layout: profile-page-left
+    layout: profile-page-right
 
 ##########
 # BLOG SETTINGS
