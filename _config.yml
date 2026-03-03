@@ -16,12 +16,12 @@ author: Eric Schares
 bio: "Eric is the Engineering & Collection Analysis Librarian at Iowa State University in the US"  # underneath author name
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
-email:
-github_profile:
-department:
-orcid:
-cv:
+image: /assets/img/Schares_Eric_circle.png
+email: eschares@iastate.edu
+github_profile: https://github.com/ericschares
+department: https://www.lib.iastate.edu
+orcid: https://orcid.org/0000-0002-6292-8221
+cv: /assets/test_cv.txt
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
