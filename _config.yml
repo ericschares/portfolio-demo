@@ -10,10 +10,10 @@
 # SITE SETTINGS
 #
 title: Eric Schares
-description: "Professional portfolio template for Jekyll with GitHub Pages"  # " " for punctuation, shows at bottom of page
+description: "Professional portfolio template for Jekyll with [GitHub](https://ericschares.github.io/portfolio-demo/) Pages"  # " " for punctuation, shows at bottom of page
 year: 2026
 author: Eric Schares
-bio: "Eric is the Engineering & Collection Analysis Librarian at Iowa State University in the US"  # underneath author name
+bio: "Eric is the Engineering & Collection Analysis Librarian at Iowa State University"  # underneath author name
 
 # PERSONAL URLS
 image: /assets/img/Schares_Eric_circle.png
@@ -69,7 +69,7 @@ navbar-background: bg-light
 bootswatch: flatly
 
 # THEME FONTS [optional!]
-base-font-size: 1.0em
+base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
